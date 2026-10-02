@@ -1,4 +1,4 @@
-<img src="#?raw=true">
+<img src="https://github.com/melisms/melisms/blob/main/deep-learning-banner.jpg?raw=true">
 
 <h1 align="center">Hi 👋, I'm Melisa Muslu</h1>
 <h3 align="center">Computer Engineer / Software Engineer</h3>
