@@ -49,6 +49,9 @@
   <a href="https://rubyonrails.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain-wordmark.svg" alt="rails" width="40" height="40"/>
   </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
+  </a>
 
   <!-- Frontend -->
 
@@ -84,6 +87,9 @@
   </a>
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
+  </a>
+  <a href="https://ollama.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ollama.svg" alt="ollama" width="40" height="40"/>
   </a>
 
   <!-- Testing -->
